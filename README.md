@@ -1,5 +1,7 @@
 # England Spatial Map
 
+> **Historical portfolio artifact:** this repository preserves the rendered map/output; the original executable source is not currently available here.
+
 A geospatial data-visualization project focused on mapping England and presenting the resulting analysis as a rendered HTML document.
 
 ## Repository contents
